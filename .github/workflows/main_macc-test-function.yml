@@ -39,4 +39,4 @@ jobs:
           app-name: 'macc-test-function'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9677B73B28B4666887E26FF2182EA66 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB205F7D987F41AA81313082140A6935 }}
